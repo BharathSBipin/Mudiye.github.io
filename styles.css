@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 html{
-    scroll-behaviour:smooth;
+    scroll-behavior:smooth;
 }
 .first{
     width: 100%;
@@ -510,10 +510,6 @@ h3{
 
 
 
-
-
-
-
 footer{
     width: 100%;
     height: 120px;
@@ -639,14 +635,6 @@ footer{
 
 
 
-
-
-
-
-
-
-
-
 @media screen and (max-width:600px)
 {
     *{
@@ -655,7 +643,7 @@ footer{
         box-sizing: border-box;
     }
     html{
-        scroll-behaviour:smooth;
+        scroll-behavior:smooth;
     }
     .first{
         width: 100%;
@@ -929,6 +917,7 @@ h3{
     width: 100%;
     height: 150vh;
     background: rgb(17, 17, 17);
+    
 }
 .qual{
     font-size: 30px;
